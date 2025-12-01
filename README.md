@@ -1,8 +1,8 @@
 
 # Tarea 4 – Compresor Universal (Huffman, LZ77, LZ78)
 
-Curso: Algoritmos y Estructuras de Datos II
-Instituto Tecnológico de Costa Rica
+Curso: Algoritmos y Estructuras de Datos II.
+Instituto Tecnológico de Costa Rica.
 
 Estudiantes:
 
