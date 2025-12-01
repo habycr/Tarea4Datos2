@@ -20,11 +20,11 @@ El programa genera archivos con formato `.myzip` y muestra estadísticas de tiem
 1. Presionar el botón **Agregar archivos...**
 2. Navegar a:
 
-```
+
 
 Tarea4Datos2 / Archivos_txt
 
-```
+
 
 3. Seleccionar los archivos de prueba:
 
@@ -44,11 +44,11 @@ Se usa para un caso más realista donde la compresión suele ser menor.
 2. Presionar el botón **Comprimir**.
 3. En la ventana emergente, ir a:
 
-```
+
 
 Archivos_txt / Comprimidos
 
-```
+
 
 4. Dentro de esa carpeta hay una subcarpeta por algoritmo.  
    Guardar el archivo `.myzip` dentro de la subcarpeta correspondiente.
@@ -62,19 +62,19 @@ Archivos_txt / Comprimidos
 2. Presionar el botón **Descomprimir**.
 3. Elegir un `.myzip` dentro de:
 
-```
+
 
 Archivos_txt / Comprimidos / (carpeta del algoritmo)
 
-```
+
 
 4. Seleccionar la carpeta de destino:
 
-```
+
 
 Archivos_txt / Descomprimidos / (carpeta del algoritmo)
 
-```
+
 
 5. Si todo es correcto, aparecerá el mensaje “Descompresión completada”.
 
@@ -99,5 +99,4 @@ Esto permite restaurar los archivos sin pérdida durante la descompresión.
 ## 6. _Limpiar lista_
 Para usar otros archivos, se puede presionar **Limpiar lista**.  
 Esto borra los archivos cargados y reinicia las estadísticas mostradas.
-```
 
