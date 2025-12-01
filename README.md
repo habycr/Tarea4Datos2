@@ -1,6 +1,14 @@
 
-# README – Compresor Universal (Huffman, LZ77, LZ78)
+# Tarea 4 – Compresor Universal (Huffman, LZ77, LZ78)
 
+# Curso: Algoritmos y Estructuras de Datos II
+# Instituto Tecnológico de Costa Rica
+
+# Estudiantes:
+
+Antony Javier Hernández Castillo
+Jose Fabio Ruiz Morales
+Dylan Guerrero Gonzalez
 
 Este proyecto es una aplicación Windows Forms que permite comprimir y descomprimir archivos de texto utilizando los algoritmos **Huffman**, **LZ77** y **LZ78**.  
 El programa genera archivos con formato `.myzip` y muestra estadísticas de tiempo, memoria y tasa de compresión.
