@@ -1,5 +1,4 @@
 
-``md
 # README – Compresor Universal (Huffman, LZ77, LZ78)
 
 ## Introducción
