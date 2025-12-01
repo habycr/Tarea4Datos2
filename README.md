@@ -6,8 +6,8 @@ Instituto Tecnológico de Costa Rica
 
 Estudiantes:
 
-Antony Javier Hernández Castillo
-Jose Fabio Ruiz Morales
+Antony Javier Hernández Castillo,
+Jose Fabio Ruiz Morales,
 Dylan Guerrero Gonzalez
 
 Este proyecto es una aplicación Windows Forms que permite comprimir y descomprimir archivos de texto utilizando los algoritmos **Huffman**, **LZ77** y **LZ78**.  
