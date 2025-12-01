@@ -1,11 +1,11 @@
 
 # README – Compresor Universal (Huffman, LZ77, LZ78)
 
-## Introducción
+
 Este proyecto es una aplicación Windows Forms que permite comprimir y descomprimir archivos de texto utilizando los algoritmos **Huffman**, **LZ77** y **LZ78**.  
 El programa genera archivos con formato `.myzip` y muestra estadísticas de tiempo, memoria y tasa de compresión.
 
----
+
 
 # USO DEL PROGRAMA
 
@@ -14,7 +14,7 @@ El programa genera archivos con formato `.myzip` y muestra estadísticas de tiem
 2. Ejecutar el WinForms llamado Compresor Universal.
 3. Se abrirá la ventana principal del programa.
 
----
+
 
 ## 2. _Agregar archivos_
 1. Presionar el botón **Agregar archivos...**
@@ -37,7 +37,7 @@ Huffman asigna códigos más cortos y LZ77/LZ78 aprovechan las repeticiones dire
 Archivo con texto normal, sin repeticiones marcadas.  
 Se usa para un caso más realista donde la compresión suele ser menor.
 
----
+
 
 ## 3. _Comprimir archivos_
 1. Seleccionar un algoritmo: Huffman, LZ77 o LZ78.
@@ -55,7 +55,7 @@ Archivos_txt / Comprimidos
 5. Si todo funcionó, aparecerá el mensaje “Compresión completada”.
 6. Para probar otro algoritmo basta repetir el proceso cambiando la selección.
 
----
+
 
 ## 4. _Descomprimir archivos_
 1. Seleccionar el algoritmo que se desea usar para la descompresión.
@@ -78,7 +78,7 @@ Archivos_txt / Descomprimidos / (carpeta del algoritmo)
 
 5. Si todo es correcto, aparecerá el mensaje “Descompresión completada”.
 
----
+
 
 ## 5. _Formato .myzip_
 El archivo `.myzip` generado incluye:
@@ -94,7 +94,7 @@ El archivo `.myzip` generado incluye:
 
 Esto permite restaurar los archivos sin pérdida durante la descompresión.
 
----
+
 
 ## 6. _Limpiar lista_
 Para usar otros archivos, se puede presionar **Limpiar lista**.  
