@@ -5,14 +5,15 @@
 Este proyecto es una aplicación Windows Forms que permite comprimir y descomprimir archivos de texto utilizando los algoritmos **Huffman**, **LZ77** y **LZ78**.  
 El programa genera archivos con formato `.myzip` y muestra estadísticas de tiempo, memoria y tasa de compresión.
 
-
-
 # USO DEL PROGRAMA
 
 ## 1. _Abrir el proyecto_
-1. Abrir la solución en Visual Studio 2022.
-2. Ejecutar el WinForms llamado Compresor Universal.
-3. Se abrirá la ventana principal del programa.
+1. Abrir Visual Studio 2022.
+2. Clonar el proyecto con el siguiente link:  
+   https://github.com/habycr/Tarea4Datos2.git
+3. Recordar la ubicación donde quedó el proyecto, ya que se deberá acceder a la carpeta **Archivos_txt** durante las pruebas.
+4. Ejecutar el WinForms llamado Compresor Universal.
+5. Se abrirá la ventana principal del programa.
 
 
 
