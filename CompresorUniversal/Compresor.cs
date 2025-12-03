@@ -67,7 +67,9 @@ namespace CompresorUniversal
                     writer.Write(nombreArchivo);              // nombre del archivo dentro del paquete
                     writer.Write(datosOriginales.Length);     // tamaño original
                     writer.Write(datosComprimidos.Length);    // tamaño comprimido
-                    writer.Write(datosComprimidos);           // bytes comprimidos reales.
+
+
+                    writer.Write(datosComprimidos);           // bytes comprimidos reales
                 }
             }
         }
