@@ -62,10 +62,12 @@ Archivos_txt / Comprimidos
 
 
 
-4. Dentro de esa carpeta hay una subcarpeta por algoritmo.  
+4. Dentro de esa carpeta hay una subcarpeta por algoritmo.
+   (Aclaración)
+   Por naturaleza de Github, este no detecta los directorios vacíos. Originalmente, dentro de la carpeta "Comprimidos" y "Descomprimidos" se encuentra una carpeta para cada algoritmo. O sea, había una carpeta para cada algoritmo (Huffman,LZ77 y LZ78). Cree las 3 carpetas en "Comprimidos" y "Descomprimidos".   
    Guardar el archivo `.myzip` dentro de la subcarpeta correspondiente.
-5. Si todo funcionó, aparecerá el mensaje “Compresión completada”.
-6. Para probar otro algoritmo, se repite el proceso cambiando la selección.
+6. Si todo funcionó, aparecerá el mensaje “Compresión completada”.
+7. Para probar otro algoritmo, se repite el proceso cambiando la selección.
 
 
 
