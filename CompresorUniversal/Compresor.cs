@@ -62,7 +62,7 @@ namespace CompresorUniversal
                     totalComprimido += datosComprimidos.Length;
 
 
-                    string nombreArchivo = Path.GetFileName(ruta);    // sólo el nombre, sin ruta.
+                    string nombreArchivo = Path.GetFileName(ruta);    // sólo el nombre, sin ruta
 
                     writer.Write(nombreArchivo);              // nombre del archivo dentro del paquete
                     writer.Write(datosOriginales.Length);     // tamaño original
@@ -71,12 +71,6 @@ namespace CompresorUniversal
                 }
             }
         }
-
-
-
-
-
-
 
 
         // Descomprime un archivo .myzip completo y lo deja en una carpeta destino.
